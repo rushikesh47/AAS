@@ -1,0 +1,178 @@
+image processing, visual data, optical sensor data, 
+wireless networks, statistics, noise modelling, 
+pcmc-2, computer network, 
+C, assembly languages, windows, linux, matlab, pspice, verilog, cadence, 
+ms office, image cv, 
+
+
+Optical Wavelength Demultiplexer based on Photonic Crystal Architecture, 
+Improved Method for Uniform Etching of An Intermediate Fiber Clad Section, 
+Semiconductor Nano-Wires on a uniformly cladding removed optical fiber, 
+Design of Optical Wavelength Demultiplexer based on Photonic Crystal Architecture, 
+Design and Implementation of Facial Identification system using Eigenface, 
+Design and Implementation of a Voltage Reference with adjustable output voltage levels, 
+wireless LAN at a workplace and mitigating the Security risks, 
+TDMoIP and VoIP, 
+Fabrication and Quality Control Department, 
+
+Analysis of the dynamics of the rectusfemoris
+muscle using Ultrasound coupled with Position Sensors, 
+Microcontroller Programmer, multiprocessor communication on the AVR microcontroller platform, 
+Basic Electronics, LMS based LSSVM classifier, 
+phonocardiogram signals, real time Heart Sound Analyzer, 
+Fingerprint image classification using Artificial Neural Networks, 
+Segmentation of masses in mammogram image using Geometric Active Contour, 
+PCG signals using LMS based least square
+SVM classifier, C, C++, Verilog HDL, Assembly Languages, 
+Windows and Linux operating systems, 
+Matlab, Microsoft Visual C++, PSpice, Assembly Language Simulators (AVR,8051,8085),
+Microsoft Office, Excellent communication skills and leadership ability, 
+
+Design of integrated circuit for amplifying low level random high frequency current pulse to a
+certain level voltage for processing, neutron detector, 
+non linearity in optical fiber in optical OFDM due to peak to average power
+ratio(PAPR), optimization at system level for maximization of bitrate for a given power
+level, Inverse synthetic aperture radar (ISAR) image processing by Range Doppler Algorithm &
+adaptive chirplet decomposition , ( Electronics & Radar Developement Establishment, Defence
+research & development organisation(DRDO), 
+
+Financial RiskManager, Introduction to Financial Management, Industrial Economics, Design and Analysis of Algorithms,
+Probability and Stochastic Processes, Programming and Data Structures and Linear Algebra, 
+C, C++, C#, Java,MATLAB and MS SQL,  
+Layout development for the circuit of a Neuromuscular Stimulator, 
+Development of a bipolar neuromuscular stimulator, 
+Juniper Networks, electronic circuit design of Ethernet Line Cards and the Power over Ethernet technology, 
+control board of POE based devices which was approved as a prototype, 
+piezoelectric based valve less micro pump, Micro ElectroMechanical Systems, 
+Robotix event, 
+
+Working in Communications on Access Techniques, to improve the efficiency of spectral usage, 
+Cognitive Radio Transceiver Design, Image Processing, Soft Computing, 
+robot using Image
+Processing, 
+
+Robotics & Artificial Intelligence, 
+Ultrasound Image Segmentation using Statistical Distributions and CRFs, 
+Visual Basic, 
+Probability and Stochastic Processes
+Soft Computing Tools
+Matrix Algebra
+Cryptology and Network Security, 
+C, C++, Visual Basic, Matlab, Pspice, Mathematica, 
+
+
+C++ and JAVA programming, C programming for my performance in the ACM Inter-provincial C programming competition, 
+Modelled complex macroeconomic variables, MATLAB, 
+ARM microcontroller using Embedded C Programming Platform, 
+Programming Languages, C, C++, Java, Visual C++, HTML, SQL
+Software Packages, MATLAB, GAUSS, MS Office, AutoCAD, Open-Office, Mathematica, 
+Language Skills, English, Hindi, Kannada, Tamil, German (Basic), 
+FRM Topics,  Valuations and Risk Modelling, Financial Markets and Products, Financial Mathematics 
+Courses/Labs, Industrial Economics, Probability and Statistics, Algorithms, Operations Research, 
+image analysis using embedded C++, Entrepreneurship-cell, 
+Visual C++, QPR, 
+
+Visual Information Processing and Embedded Systems, 
+GUI and Circuit Builder on JAVA Platform for 
+Development of on-line distribution monitoring device with WLL capacity, 
+C, C++, Visual C++ and OpenCV, MATLAB, JAVA, html, 
+MS Office, Adobe Photoshop, Adobe Premiere Pro, 
+statistical confidence measure for optical flow fields, 
+
+MICROELECTRONICS AND VLSI
+DESIGN, OPEN SOURCE MIS SOFTWARE DEVELOPMENT USING ASP.NET, 
+DATABASE MANAGEMENT SYSTEMS using MYSQL and creating Databases using MYSQL and queries
+using regarding to that database using ASP.NET during the training, 
+IMPLEMENTATION OF A POWER LINE COMMUNICATION CHANNEL, 
+PLC channel in SIMULINK and MATLAB using equations and Block diagrams, 
+AWGN channel using same transmitter and receiver that used in PLC, 
+C, ASP.NET , VERILOG, AUTOCAD, MATLAB, PSPICE, XILINX, CADENCE, SILVACO, 
+WINDOWS, 
+
+magnetic sensor, cmos, cmc, vlsi, diode, rrcat, opamp, laser, autocad, 
+javascript, html, css, cadence, verilog, pspice, autocad, silvaco package, 
+
+Pattern search & Genetic algorithm, 
+NSE Certified Market Professional (NCMP) in Investment Analysis and Portfolio Management, 
+Options trading strategies, Derivatives Market & Currency Derivatives modules
+Probability and Stochastic Processes, Design and analysis of Algorithms, 
+Soft Computing tools in Engineering, Switching &Finite Automata, 
+Digital Signal Processing, Network Theory, 
+ANN was trained using macroeconomic data  
+economic reserves, M2/reserve ratio, exchange rate and Exports, 
+MBE grown p-HEMT, ATLAS (silvaco) simulator, 
+
+Microelectronics and
+VLSI Design, Tea Garden Management Software (MIS), 
+VB, ASP.NET, MySQL, Web Interface, RTN noise in FinFETs, 
+AMS Design flow and developing Regression
+Models using Singular Value Decomposition technique, 
+C, C++, HTML, AUTOCAD, MATLAB, PSpice, Xilinx, Cadence, Medici, Nanosim and VCS, 
+Linux and Microsoft Windows, 
+
+LTE test bed for 4G mobile communications service, 
+64QAM mapper and de-mapper implementation on FPGA, 
+Amateur Radio project, HEMT devices, 
+Probability and Stochastic Processes
+Industrial Economics
+Matrix Algebra
+Modern Algebra
+Programming in Data Structures.
+Oracle 9i, MS Excel, MATLAB, C, C++.
+MATLAB experience in speech and image
+processing, 
+
+PIC based microcontroller circuitry, 
+PIC18F4525 microcontroller, Unified PCB card, TCAD, 3-D and 2-D MOSFET, 
+Bit Serial Realization of the Sign-LMS based Adaptive Filter, 
+bit-serial adaptive filter based on bit-serial canonic SPT
+adder/multiplier, Facial expression Recognition system , 
+Soft-computing, 
+
+cad tools, vlsi, iwls, nano electronics
+
+Design and Development of Web enabled Tea Garden Information (including GIS and MIS), 
+Experimental Studies with Voltage Transformers and the Variation of Inductance under, 
+Web Interface Designing, Windows, Linux, Mac, C, Verilog, VHDL, 
+SPICE, Oracle, Cadence, Xilinx, Circuit Maker, MATLAB, MS-Office, 
+Adobe Dreamweaver, Adobe Fireworks, Adobe Photoshop, 
+Programming and Data structures
+Semiconductor Devices
+Signals and Systems
+Network Theory
+Analog Electronics Circuits
+Digital Electronics Circuits
+Electromagnetic Engineering
+VLSI
+Digital Signal Processing
+Digital Communication systems
+Analog and Digital Communication
+Electronic Design Automation
+Electronics For Physicists
+RF and Microwave
+Foundation of computing
+Basic Electronics
+Probability and statistics
+Matrix Algebra
+Micro Controller and Embedded systems
+Digital Voice and Picture Communication
+Artificial Intelligence, 
+Web Template Designing, Digital Aesthetic Painting and Video Editing, 
+
+Human facial expression using a MANFIS using LBP (Local Binary Pattern) information, 
+MANFIS based model, 
+Fuzzy logic application in impulse noise reduction in an image, 
+Writer-independent off-line signature verification based on genetic algorithm, 
+Intrusion detection in computer networks using nearest neighbour approach, 
+Log Management tool, ad-hoc data, 
+displacement Measurement, Positioning and Sensors for autonomous robots, 
+Windows (XP/98/2000), Linux, C, C++, PSPICE, JAVA, VHDL, Verilog, Visual Basic, 
+MATLAB, Labview 8.5, Xilinx ISE, Cadence, AUTOCAD, 
+
+Band-limited inverse filter, Acoustics, Speech, and Signal Processing (ICASSP), 
+Synthetic generation of ultrasound Doppler signals, 
+peak systolic frequency shift, end
+diastolic frequency shift, 
+sub-optimal detector, embedded
+in non-Gaussian, PID controller, resolution tunnelling accelerometer, 
+FPGA, ASIC development, Hardware Design, 
